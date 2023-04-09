@@ -1,0 +1,27 @@
+{  
+   "personas":[  
+      {  
+         "ci":1234567,
+         "nombre":"Emilio Saldivar",
+         "casado":false,
+         "hijos":[  
+
+         ]
+      },
+      {  
+         "ci":7654321,
+         "nombre":"Matias Saldivar",
+         "casado":true,
+         "hijos":[  
+            {  
+               "nombre":"Emilio",
+               "edad":18
+            },
+            {  
+               "nombre":"Matias",
+               "edad":16
+            }
+         ]
+      }
+   ]
+}
