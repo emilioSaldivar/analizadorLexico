@@ -3,6 +3,7 @@ Contiene un proyecto Maven, un analizador léxico para JSON implementado en Java
 Integrantes del equipo:
 
 - Emilio Saldivar emiliomatasc@fpuna.edu.py
+- Matias del Barco mati_delbarco@fpuna.edu.py
 
 Para realizar una prueba, basta con dirigirse dentro de la carpeta
 
