@@ -24,7 +24,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>py.una.pol.lexer.Lexer</mainClass>
+                            <mainClass>py.edu.fpuna.compiladores.main.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

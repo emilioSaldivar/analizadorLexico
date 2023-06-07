@@ -1,1 +1,4 @@
-py\una\pol\lexer\Lexer.class
+py/edu/fpuna/compiladores/traductor/JSONTranslator.class
+py/edu/fpuna/compiladores/parser/Parser.class
+py/edu/fpuna/compiladores/main/Main.class
+py/edu/fpuna/compiladores/lexer/Lexer.class

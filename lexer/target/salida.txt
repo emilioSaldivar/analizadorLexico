@@ -1,48 +1,28 @@
-L_LLAVE
- 
-STRING DOS_PUNTOS L_CORCHETE
-	
-L_LLAVE
-	 
-STRING DOS_PUNTOS NUMBER COMA
+<root>
+<object>
+personas</><<array>
+<object>
+ci</><1234567</
+nombre</><Emilio Saldivar</
+casado</><false
+hijos</><<array>
+</array>
+</object>
 
-STRING DOS_PUNTOS STRING COMA
+	<object>
+ci</><7654321</
+nombre</><Matias Saldivar</
+casado</><true
+hijos</><<array>
+<object>
+nombre</><Emilio</
+edad</><18</</object>
 
-STRING DOS_PUNTOS PR_FALSE COMA
-
-STRING DOS_PUNTOS L_CORCHETE
-	
-
-
-	R_CORCHETE 
-R_LLAVE COMA
-		
-L_LLAVE
-	 
-STRING DOS_PUNTOS NUMBER COMA
-
-STRING DOS_PUNTOS STRING COMA
-
-STRING DOS_PUNTOS PR_TRUE COMA
-
-STRING DOS_PUNTOS L_CORCHETE
-	
-L_LLAVE
-	 
-STRING DOS_PUNTOS STRING COMA
-
-STRING DOS_PUNTOS NUMBER 
-R_LLAVE COMA
-		
-L_LLAVE
-	 
-STRING DOS_PUNTOS STRING COMA
-
-STRING DOS_PUNTOS NUMBER 
-R_LLAVE 
-
-	R_CORCHETE 
-R_LLAVE 
-
-	R_CORCHETE 
-R_LLAVE 
+	<object>
+nombre</><Matias</
+edad</><16</</object>
+</array>
+</object>
+</array>
+</object>
+</root>

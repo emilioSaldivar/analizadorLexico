@@ -2,7 +2,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package py.una.pol.lexer;
+package py.edu.fpuna.compiladores.lexer;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -36,9 +36,7 @@ public class Lexer {
     private static PrintWriter output;
     private static Stack<Integer> stack;
     
-    public static void main(String[] args) {
-        String inputFileName = args[0];
-        String outputFileName = args[1];
+    public static void lexer(String inputFileName, String outputFileName) {
 
         try {
             input = new BufferedReader(new FileReader(inputFileName));
